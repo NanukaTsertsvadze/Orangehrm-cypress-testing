@@ -1,7 +1,5 @@
 # Orangehrm-cypress-testing
 
-# Project: Test Automation
-
 This project automates testing for OrangeHRM pages using Cypress
 
 ## Prerequisites
