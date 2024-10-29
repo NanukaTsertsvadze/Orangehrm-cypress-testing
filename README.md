@@ -19,7 +19,7 @@ This project automates testing for OrangeHRM pages using Cypress
 
    ```bash
    npm init -y
-4. Set up WebDriverIO using the following command:
+4. Set up Cypress using the following command:
 
    ```bash
    npm install cypress --save-dev
